@@ -88,3 +88,5 @@ At the end it is concluded that we have made effort on following points...
 * We describe the requirement Specifications of the system and the actions that can be done on these things.
 * We understand the problem domain and produce a model of the system, which describes operations that can be performed on the system.
 * We included features and operations in detail, including screen layouts
+
+* have a look at project https://tusharkarma.github.io/Campus-management-/
